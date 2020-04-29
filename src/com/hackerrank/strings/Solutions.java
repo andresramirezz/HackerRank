@@ -1,4 +1,4 @@
-package com.hackerrank.Strings;
+package com.hackerrank.strings;
 
 import java.util.*;
 
