@@ -10,7 +10,7 @@ import java.lang.reflect.Method;
  */
 public class Generics {
 
-	public void printArray( Object[] o ) {
+	void printArray( Object[] o ) {
 			for (Object object : o) {
 				System.out.println(object);
 			}
